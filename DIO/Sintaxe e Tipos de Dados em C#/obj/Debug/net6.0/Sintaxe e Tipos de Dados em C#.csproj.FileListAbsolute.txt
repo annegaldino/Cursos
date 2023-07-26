@@ -1,0 +1,15 @@
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net6.0/Sintaxe e Tipos de Dados em C#
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net6.0/Sintaxe e Tipos de Dados em C#.deps.json
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net6.0/Sintaxe e Tipos de Dados em C#.runtimeconfig.json
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net6.0/Sintaxe e Tipos de Dados em C#.dll
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net6.0/Sintaxe e Tipos de Dados em C#.pdb
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.csproj.AssemblyReference.cache
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.AssemblyInfoInputs.cache
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.AssemblyInfo.cs
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.csproj.CoreCompileInputs.cache
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.dll
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/refint/Sintaxe e Tipos de Dados em C#.dll
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.pdb
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/Sintaxe e Tipos de Dados em C#.genruntimeconfig.cache
+/Users/cti14/DIO/Desafios-DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net6.0/ref/Sintaxe e Tipos de Dados em C#.dll

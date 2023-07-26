@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Introdução as IDEs e Configuração de Ambiente .NET/1.0.0": {
+        "runtime": {
+          "Introdução as IDEs e Configuração de Ambiente .NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introdução as IDEs e Configuração de Ambiente .NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

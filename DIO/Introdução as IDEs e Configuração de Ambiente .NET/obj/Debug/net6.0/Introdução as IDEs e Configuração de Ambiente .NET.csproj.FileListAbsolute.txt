@@ -1,0 +1,15 @@
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/bin/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/bin/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.deps.json
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/bin/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.runtimeconfig.json
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/bin/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.dll
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/bin/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.pdb
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.csproj.AssemblyReference.cache
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfoInputs.cache
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfo.cs
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.csproj.CoreCompileInputs.cache
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.dll
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/refint/Introdução as IDEs e Configuração de Ambiente .NET.dll
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.pdb
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/Introdução as IDEs e Configuração de Ambiente .NET.genruntimeconfig.cache
+/Users/cti14/DIO/Desafios-DIO/Introdução as IDEs e Configuração de Ambiente .NET/obj/Debug/net6.0/ref/Introdução as IDEs e Configuração de Ambiente .NET.dll
