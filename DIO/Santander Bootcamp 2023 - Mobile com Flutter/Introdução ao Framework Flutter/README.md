@@ -2,13 +2,13 @@
 
 ## Instalação Flutter
 
-### MACOS 
+### MACOS
 
 - Criar pasta framework no usuário
 
      > mkdir framework
 - Clonar repositório
-    
+
     > git clone https://github.com/flutter/flutter.git -b stable
 
 - Adicionar no path, se usar Z shell:
@@ -34,3 +34,6 @@
 ## Uso do VsCode
 
 - Instalar plugin Flutter e Dart
+
+## Criar estrutura de projeto
+    > flutter create -t app --org com.companyname.packagename -a kotlin -i swift myapp
